@@ -1,3 +1,17 @@
+# To-Do List App
+
+## Objective
+
+- Learn the basics of React 
+- Use of local states
+- Use of hooks
+- Play a little bit with CSS.
+
+## Some pics of the App
+
+<img height="250" src="./Screenshot_todo_list.jpg" />
+<img height="250" src="./Screenshot_todo_list2.jpg" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
